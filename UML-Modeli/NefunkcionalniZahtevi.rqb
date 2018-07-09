@@ -312,8 +312,8 @@ ConvTablePath=%_HOME%\Resource Files\Conversion Tables</a:ModelOptionsText>
 <c:DocumentViews>
 <o:RequirementsDocumentView Id="o3">
 <a:ObjectID>EE4D8D5E-D175-4D7D-A13F-95EB25C16F35</a:ObjectID>
-<a:Name>DocumentView_1</a:Name>
-<a:Code>DocumentView_1</a:Code>
+<a:Name>SpecifikacijaNefunkcionalnihZahteva</a:Name>
+<a:Code>SpecifikacijaNefunkcionalnihZahteva</a:Code>
 <a:CreationDate>1531075826</a:CreationDate>
 <a:Creator>Dule</a:Creator>
 <a:ModificationDate>1531075826</a:ModificationDate>
