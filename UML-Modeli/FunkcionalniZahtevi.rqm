@@ -840,6 +840,11 @@ Shadow=0</a:DisplayPreferences>
 <a:Status>0</a:Status>
 <a:Risk>0</a:Risk>
 <a:VerificationMethod/>
+<a:Description>{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\cf1\f0\fs20 Najni\&#39;9ea organizaciona jednica.Vi\&#39;9ae naplatnih mesta cini naplatnu stanicu.Naplatno mesto mo\&#39;9ee biti aktivno ili neaktivno.Neaktivnost naplatnog mesta se de\&#39;9aava usled kraja radne smene operatera ili malfunkcije(kvara) naplatnog mesta.\par
+}
+</a:Description>
 </o:Requirement>
 </c:Requirements>
 </o:Requirement>
