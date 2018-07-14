@@ -1,0 +1,7 @@
+INDEX VERSION 1.130+C:\Users\Dule\Desktop\SIMS-TIM20-PROJEKAT\.metadata\.plugins\org.eclipse.jdt.core
+2324640071.index
+2477582171.index
+3794769068.index
+4202096891.index
+518996063.index
+3125867348.index
