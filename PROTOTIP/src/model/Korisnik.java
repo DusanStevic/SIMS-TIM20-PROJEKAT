@@ -25,7 +25,7 @@ public class Korisnik extends Osoba {
    private String username;//Maki promenila na protected zato sto ne moze private kod otvaranja
    private String password;
    
-   Korisnik() {
+   public Korisnik() {
 	   
    }
    Korisnik(int idOsobe, String ime, String prezime, String username, String password) {
