@@ -1,0 +1,16 @@
+900|kvar rampe|01.02.2018.|1
+901|kvar racunara|03.03.2018.|1
+902|kvar antene|03.04.2018.|2
+903|kvar racunara|12.04.2018.|2
+904|kvar antene|12.05.2018.|2
+905|kvar racunara|13.05.2018.|3
+906|kvar rampe|05.06.2018.|4
+907|kvar racunara|06.06.2018.|4
+908|kvar antene|12.06.2018.|5
+909|kvar antene|15.06.2018.|5
+910|kvar rampe|18.06.2018.|5
+911|kvar racunara|19.06.2018.|6
+912|kvar rampe|20.06.2018.|7
+913|kvar antene|21.06.2018.|8
+914|kvar racunara|22.06.2018.|9
+915|kvar antene|23.06.2018.|10
