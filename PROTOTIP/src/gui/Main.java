@@ -33,7 +33,7 @@ public class Main {
 	
 	private static ArrayList<NaplatnoMesto> listaNaplatnihMesta = new ArrayList<NaplatnoMesto>();
 	private static ArrayList<NaplatnaStanica> listaNaplatnihStanica = new ArrayList<NaplatnaStanica>();
-	private static ArrayList<Korisnik> listaKorisnika = new ArrayList<Korisnik>();
+	public static ArrayList<Korisnik> listaKorisnika = new ArrayList<Korisnik>();
 	private static ArrayList<Kvar> listaKvarova = new ArrayList<Kvar>();
 	private static ArrayList<Deonica> listaDeonica = new ArrayList<Deonica>();
 	private static ArrayList<Naplata> naplate=new ArrayList<Naplata>();
@@ -87,7 +87,7 @@ public class Main {
 		}
 		while (uslov == true){
 			prvi = false;
-			int rez = Korisnik.logIn();
+			int rez = Korisnik.logIn("","", new ArrayList<Korisnik>());
 			if (rez == 0) {
 				System.out.println("Uspesno ste se ulogovali kao administrator.");
 				Administrator.meniAdministratora();

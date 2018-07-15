@@ -14,7 +14,7 @@ public class Osoba {
    protected String ime;
    protected String prezime;
    
-   Osoba() {
+   public Osoba() {
 	   
    }
    
