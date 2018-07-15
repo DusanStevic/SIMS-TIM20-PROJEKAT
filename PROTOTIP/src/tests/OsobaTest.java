@@ -16,4 +16,9 @@ public class OsobaTest {
 		assertEquals(o.getIme(),"Milica");
 		
 	}
+	
+	@Test
+	public void testSetPrezime(){
+		
+	}
 }
