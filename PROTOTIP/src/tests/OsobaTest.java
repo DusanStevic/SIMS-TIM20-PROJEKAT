@@ -19,6 +19,16 @@ public class OsobaTest {
 	
 	@Test
 	public void testSetPrezime(){
+		o=new Osoba();
+		o.setPrezime("Milic");
+		assertEquals(o.getPrezime(),"Milic");
+	}
+	
+	@Test
+	public void testSetId() {
+		o=new Osoba();
+		o.setIdOsobe(1);
+		assertEquals(o.getIdOsobe(),1);
 		
 	}
 }
