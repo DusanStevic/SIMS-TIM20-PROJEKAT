@@ -1,5 +1,5 @@
 100|Marko|Andric|marko.andric|makiKralj|administrator
-101|Nikola|Milic|nikola.milic|123|sefStanice
+101|Nikola|Milic|nikola.milic|123|sefStanice|1
 102|Teodora|Jovanovic|teodora.jovanovic|456|radnikUCentrali|0
 103|Dusan|Susilovic|dusan.susilovic|789|operater|1
 104|Marija|Pajovic|marija.pajovic|12|operater|2
@@ -7,3 +7,6 @@
 106|Milan|Keselj|milan.keselj|56|operater|4
 107|Ana|Pavic|ana.pavic|78|operater|5
 108|Aleksa|Aleksic|aleksa.aleksic|910|radnikUCentrali|0
+109|Maja|Majic|maja.majic|22|sefStanice|2
+110|Ana|Anic|ana.anic||33|sefStanice|3
+111|Misa|Misic|misa.misic|44|sefStanice|4
